@@ -1,4 +1,4 @@
-<h1 align="center">👋 Merhaba, ben Mustafa Satı Tutkun</h1>
+<h1 align="center">👋 Merhaba, ben Mustafa S. Tutkun</h1>
 
 <p align="center">
   Yazılım geliştirme sürecine gerçekçi ve adım adım yaklaşan bir geliştiriciyim.  
@@ -40,7 +40,7 @@ Yeni teknolojileri keşfetmeye ve kendimi geliştirmeye devam ediyorum.
 -----------------------------------------------------------------------------------------------
 
 
-<h1 align="center">👋 Hi, I'm Mustafa Satı Tutkun</h1>
+<h1 align="center">👋 Hi, I'm Mustafa S. Tutkun</h1>
 
 <p align="center">
   I'm a developer who approaches software development realistically and step by step.  
