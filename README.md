@@ -13,7 +13,7 @@
 - Veritabanı bağlantı süreçleri ve migration yönetimi  
 - Production ortamda hata ayıklama ve sistemin sürdürülebilirliği  
 - Kodun reflekslerle değil, mantıkla yönetilmesi  
-- Basit arayüzlerle sade kullanıcı deneyimi
+- Düşük seviyeli programlama
 
 ---
 
@@ -22,8 +22,9 @@
 | Teknoloji | Durum |
 |-----------|--------|
 | Python |  Geliştirmeye devam ediyorum |
+| Dronekit ve PANDAS/MATPLOTLIB/TENSORFLOW | Geliştirme konusunda hevesliyim |
 | Django |  Web uygulamaları geliştirmeye başladım |
-| PostgreSQL |  Bağlantı ve migration süreçlerini öğreniyorum |
+| MSSQL |  Bağlantı ve migration süreçlerini öğreniyorum |
 | Git & GitHub |  Versiyon kontrolü konusunda pratik kazanıyorum |
 | HTML/CSS/JS |  Temel düzeyde stil ve yapı yönetimini öğreniyorum |
 | Bootstrap |  Arayüz tasarımında kullanmaya başladım |
@@ -64,8 +65,9 @@ Yeni teknolojileri keşfetmeye ve kendimi geliştirmeye devam ediyorum.
 | Technology | Status |
 |------------|--------|
 | Python | Continuously improving my skills |
+| Dronekit and PANDAS/MATPLOTLIB/TENSORFLOW | I am enthusiastic about development |
 | Django | Started building web applications |
-| PostgreSQL | Learning connection and migration workflows |
+| MSSQL | Learning connection and migration workflows |
 | Git & GitHub | Gaining hands-on experience with version control |
 | HTML/CSS/JS | Learning basic styling and layout structure |
 | Bootstrap | Recently started using it for interface design |
